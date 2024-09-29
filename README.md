@@ -14,3 +14,4 @@ pls note nodemon is watching the changes for node js server.js so that it can ma
 
 Go to server folder run `npm run server`
 Go to client folder run `npm run dev`
+
